@@ -1,0 +1,594 @@
+{
+  "new_lc2": [
+    {
+      "beam_id": "nlc2-03-1",
+      "beam_alias": "New LC 2 - 03 1",
+      "beam_name": "Satria 03 1"
+    },
+    {
+      "beam_id": "nlc2-03-2",
+      "beam_alias": "New LC 2 - 03 2",
+      "beam_name": "Satria 03 2"
+    },
+    {
+      "beam_id": "nlc2-03-3",
+      "beam_alias": "New LC 2 - 03 3",
+      "beam_name": "Satria 03 3"
+    },
+    {
+      "beam_id": "nlc2-03-4",
+      "beam_alias": "New LC 2 - 03 4",
+      "beam_name": "Satria 03 4"
+    },
+    {
+      "beam_id": "nlc2-03-5",
+      "beam_alias": "New LC 2 - 03 5",
+      "beam_name": "Satria 03 5"
+    },
+    {
+      "beam_id": "nlc2-03-6",
+      "beam_alias": "New LC 2 - 03 6",
+      "beam_name": "Satria 03 6"
+    },
+    {
+      "beam_id": "nlc2-03-7",
+      "beam_alias": "New LC 2 - 03 7",
+      "beam_name": "Satria 03 7"
+    },
+    {
+      "beam_id": "nlc2-03-8",
+      "beam_alias": "New LC 2 - 03 8",
+      "beam_name": "Satria 03 8"
+    },
+    {
+      "beam_id": "nlc2-03-9",
+      "beam_alias": "New LC 2 - 03 9",
+      "beam_name": "Satria 03 9"
+    },
+    {
+      "beam_id": "nlc2-03-10",
+      "beam_alias": "New LC 2 - 03 10",
+      "beam_name": "Satria 03 10"
+    },
+    {
+      "beam_id": "nlc2-03-11",
+      "beam_alias": "New LC 2 - 03 11",
+      "beam_name": "Satria 03 11"
+    },
+    {
+      "beam_id": "nlc2-03-12",
+      "beam_alias": "New LC 2 - 03 12",
+      "beam_name": "Satria 03 12"
+    },
+    {
+      "beam_id": "nlc2-03-13",
+      "beam_alias": "New LC 2 - 03 13",
+      "beam_name": "Satria 03 13"
+    },
+    {
+      "beam_id": "nlc2-03-14",
+      "beam_alias": "New LC 2 - 03 14",
+      "beam_name": "Satria 03 14"
+    },
+    {
+      "beam_id": "nlc2-03-15",
+      "beam_alias": "New LC 2 - 03 15",
+      "beam_name": "Satria 03 15"
+    },
+    {
+      "beam_id": "nlc2-03-16",
+      "beam_alias": "New LC 2 - 03 16",
+      "beam_name": "Satria 03 16"
+    },
+    {
+      "beam_id": "nlc2-03-17",
+      "beam_alias": "New LC 2 - 03 17",
+      "beam_name": "Satria 03 17"
+    },
+    {
+      "beam_id": "nlc2-03-18",
+      "beam_alias": "New LC 2 - 03 18",
+      "beam_name": "Satria 03 18"
+    },
+    {
+      "beam_id": "nlc2-03-19",
+      "beam_alias": "New LC 2 - 03 19",
+      "beam_name": "Satria 03 19"
+    },
+    {
+      "beam_id": "nlc2-03-20",
+      "beam_alias": "New LC 2 - 03 20",
+      "beam_name": "Satria 03 20"
+    },
+    {
+      "beam_id": "nlc2-03-21",
+      "beam_alias": "New LC 2 - 03 21",
+      "beam_name": "Satria 03 21"
+    },
+    {
+      "beam_id": "nlc2-03-22",
+      "beam_alias": "New LC 2 - 03 22",
+      "beam_name": "Satria 03 22"
+    },
+    {
+      "beam_id": "nlc2-03-23",
+      "beam_alias": "New LC 2 - 03 23",
+      "beam_name": "Satria 03 23"
+    },
+    {
+      "beam_id": "nlc2-03-24",
+      "beam_alias": "New LC 2 - 03 24",
+      "beam_name": "Satria 03 24"
+    },
+    {
+      "beam_id": "nlc2-03-25",
+      "beam_alias": "New LC 2 - 03 25",
+      "beam_name": "Satria 03 25"
+    },
+    {
+      "beam_id": "nlc2-03-26",
+      "beam_alias": "New LC 2 - 03 26",
+      "beam_name": "Satria 03 26"
+    },
+    {
+      "beam_id": "nlc2-03-27",
+      "beam_alias": "New LC 2 - 03 27",
+      "beam_name": "Satria 03 27"
+    },
+    {
+      "beam_id": "nlc2-03-28",
+      "beam_alias": "New LC 2 - 03 28",
+      "beam_name": "Satria 03 28"
+    },
+    {
+      "beam_id": "nlc2-03-29",
+      "beam_alias": "New LC 2 - 03 29",
+      "beam_name": "Satria 03 29"
+    },
+    {
+      "beam_id": "nlc2-03-30",
+      "beam_alias": "New LC 2 - 03 30",
+      "beam_name": "Satria 03 30"
+    },
+    {
+      "beam_id": "nlc2-03-31",
+      "beam_alias": "New LC 2 - 03 31",
+      "beam_name": "Satria 03 31"
+    },
+    {
+      "beam_id": "nlc2-03-32",
+      "beam_alias": "New LC 2 - 03 32",
+      "beam_name": "Satria 03 32"
+    },
+    {
+      "beam_id": "nlc2-03-33",
+      "beam_alias": "New LC 2 - 03 33",
+      "beam_name": "Satria 03 33"
+    },
+    {
+      "beam_id": "nlc2-03-34",
+      "beam_alias": "New LC 2 - 03 34",
+      "beam_name": "Satria 03 34"
+    },
+    {
+      "beam_id": "nlc2-03-35",
+      "beam_alias": "New LC 2 - 03 35",
+      "beam_name": "Satria 03 35"
+    },
+    {
+      "beam_id": "nlc2-03-36",
+      "beam_alias": "New LC 2 - 03 36",
+      "beam_name": "Satria 03 36"
+    },
+    {
+      "beam_id": "nlc2-03-37",
+      "beam_alias": "New LC 2 - 03 37",
+      "beam_name": "Satria 03 37"
+    },
+    {
+      "beam_id": "nlc2-03-38",
+      "beam_alias": "New LC 2 - 03 38",
+      "beam_name": "Satria 03 38"
+    },
+    {
+      "beam_id": "nlc2-03-39",
+      "beam_alias": "New LC 2 - 03 39",
+      "beam_name": "Satria 03 39"
+    },
+    {
+      "beam_id": "nlc2-03-40",
+      "beam_alias": "New LC 2 - 03 40",
+      "beam_name": "Satria 03 40"
+    },
+    {
+      "beam_id": "nlc2-03-41",
+      "beam_alias": "New LC 2 - 03 41",
+      "beam_name": "Satria 03 41"
+    },
+    {
+      "beam_id": "nlc2-03-42",
+      "beam_alias": "New LC 2 - 03 42",
+      "beam_name": "Satria 03 42"
+    },
+    {
+      "beam_id": "nlc2-03-43",
+      "beam_alias": "New LC 2 - 03 43",
+      "beam_name": "Satria 03 43"
+    },
+    {
+      "beam_id": "nlc2-03-44",
+      "beam_alias": "New LC 2 - 03 44",
+      "beam_name": "Satria 03 44"
+    },
+    {
+      "beam_id": "nlc2-03-45",
+      "beam_alias": "New LC 2 - 03 45",
+      "beam_name": "Satria 03 45"
+    },
+    {
+      "beam_id": "nlc2-03-46",
+      "beam_alias": "New LC 2 - 03 46",
+      "beam_name": "Satria 03 46"
+    },
+    {
+      "beam_id": "nlc2-03-47",
+      "beam_alias": "New LC 2 - 03 47",
+      "beam_name": "Satria 03 47"
+    },
+    {
+      "beam_id": "nlc2-03-48",
+      "beam_alias": "New LC 2 - 03 48",
+      "beam_name": "Satria 03 48"
+    },
+    {
+      "beam_id": "nlc2-03-49",
+      "beam_alias": "New LC 2 - 03 49",
+      "beam_name": "Satria 03 49"
+    },
+    {
+      "beam_id": "nlc2-03-50",
+      "beam_alias": "New LC 2 - 03 50",
+      "beam_name": "Satria 03 50"
+    },
+    {
+      "beam_id": "nlc2-03-51",
+      "beam_alias": "New LC 2 - 03 51",
+      "beam_name": "Satria 03 51"
+    },
+    {
+      "beam_id": "nlc2-03-52",
+      "beam_alias": "New LC 2 - 03 52",
+      "beam_name": "Satria 03 52"
+    },
+    {
+      "beam_id": "nlc2-03-53",
+      "beam_alias": "New LC 2 - 03 53",
+      "beam_name": "Satria 03 53"
+    },
+    {
+      "beam_id": "nlc2-03-54",
+      "beam_alias": "New LC 2 - 03 54",
+      "beam_name": "Satria 03 54"
+    },
+    {
+      "beam_id": "nlc2-03-55",
+      "beam_alias": "New LC 2 - 03 55",
+      "beam_name": "Satria 03 55"
+    },
+    {
+      "beam_id": "nlc2-03-56",
+      "beam_alias": "New LC 2 - 03 56",
+      "beam_name": "Satria 03 56"
+    },
+    {
+      "beam_id": "nlc2-03-57",
+      "beam_alias": "New LC 2 - 03 57",
+      "beam_name": "Satria 03 57"
+    },
+    {
+      "beam_id": "nlc2-03-58",
+      "beam_alias": "New LC 2 - 03 58",
+      "beam_name": "Satria 03 58"
+    },
+    {
+      "beam_id": "nlc2-03-59",
+      "beam_alias": "New LC 2 - 03 59",
+      "beam_name": "Satria 03 59"
+    },
+    {
+      "beam_id": "nlc2-03-60",
+      "beam_alias": "New LC 2 - 03 60",
+      "beam_name": "Satria 03 60"
+    },
+    {
+      "beam_id": "nlc2-03-61",
+      "beam_alias": "New LC 2 - 03 61",
+      "beam_name": "Satria 03 61"
+    },
+    {
+      "beam_id": "nlc2-03-62",
+      "beam_alias": "New LC 2 - 03 62",
+      "beam_name": "Satria 03 62"
+    },
+    {
+      "beam_id": "nlc2-03-63",
+      "beam_alias": "New LC 2 - 03 63",
+      "beam_name": "Satria 03 63"
+    },
+    {
+      "beam_id": "nlc2-03-64",
+      "beam_alias": "New LC 2 - 03 64",
+      "beam_name": "Satria 03 64"
+    },
+    {
+      "beam_id": "nlc2-03-65",
+      "beam_alias": "New LC 2 - 03 65",
+      "beam_name": "Satria 03 65"
+    },
+    {
+      "beam_id": "nlc2-03-66",
+      "beam_alias": "New LC 2 - 03 66",
+      "beam_name": "Satria 03 66"
+    },
+    {
+      "beam_id": "nlc2-03-67",
+      "beam_alias": "New LC 2 - 03 67",
+      "beam_name": "Satria 03 67"
+    },
+    {
+      "beam_id": "nlc2-03-68",
+      "beam_alias": "New LC 2 - 03 68",
+      "beam_name": "Satria 03 68"
+    },
+    {
+      "beam_id": "nlc2-03-69",
+      "beam_alias": "New LC 2 - 03 69",
+      "beam_name": "Satria 03 69"
+    },
+    {
+      "beam_id": "nlc2-04-1",
+      "beam_alias": "New LC 2 - 04 1",
+      "beam_name": "Satria 04 1"
+    },
+    {
+      "beam_id": "nlc2-04-2",
+      "beam_alias": "New LC 2 - 04 2",
+      "beam_name": "Satria 04 2"
+    },
+    {
+      "beam_id": "nlc2-04-3",
+      "beam_alias": "New LC 2 - 04 3",
+      "beam_name": "Satria 04 3"
+    },
+    {
+      "beam_id": "nlc2-04-4",
+      "beam_alias": "New LC 2 - 04 4",
+      "beam_name": "Satria 04 4"
+    },
+    {
+      "beam_id": "nlc2-04-5",
+      "beam_alias": "New LC 2 - 04 5",
+      "beam_name": "Satria 04 5"
+    },
+    {
+      "beam_id": "nlc2-04-6",
+      "beam_alias": "New LC 2 - 04 6",
+      "beam_name": "Satria 04 6"
+    },
+    {
+      "beam_id": "nlc2-04-7",
+      "beam_alias": "New LC 2 - 04 7",
+      "beam_name": "Satria 04 7"
+    },
+    {
+      "beam_id": "nlc2-04-8",
+      "beam_alias": "New LC 2 - 04 8",
+      "beam_name": "Satria 04 8"
+    },
+    {
+      "beam_id": "nlc2-04-9",
+      "beam_alias": "New LC 2 - 04 9",
+      "beam_name": "Satria 04 9"
+    },
+    {
+      "beam_id": "nlc2-04-10",
+      "beam_alias": "New LC 2 - 04 10",
+      "beam_name": "Satria 04 10"
+    },
+    {
+      "beam_id": "nlc2-04-11",
+      "beam_alias": "New LC 2 - 04 11",
+      "beam_name": "Satria 04 11"
+    },
+    {
+      "beam_id": "nlc2-04-12",
+      "beam_alias": "New LC 2 - 04 12",
+      "beam_name": "Satria 04 12"
+    },
+    {
+      "beam_id": "nlc2-04-13",
+      "beam_alias": "New LC 2 - 04 13",
+      "beam_name": "Satria 04 13"
+    },
+    {
+      "beam_id": "nlc2-04-14",
+      "beam_alias": "New LC 2 - 04 14",
+      "beam_name": "Satria 04 14"
+    },
+    {
+      "beam_id": "nlc2-04-15",
+      "beam_alias": "New LC 2 - 04 15",
+      "beam_name": "Satria 04 15"
+    },
+    {
+      "beam_id": "nlc2-04-16",
+      "beam_alias": "New LC 2 - 04 16",
+      "beam_name": "Satria 04 16"
+    },
+    {
+      "beam_id": "nlc2-04-17",
+      "beam_alias": "New LC 2 - 04 17",
+      "beam_name": "Satria 04 17"
+    },
+    {
+      "beam_id": "nlc2-04-18",
+      "beam_alias": "New LC 2 - 04 18",
+      "beam_name": "Satria 04 18"
+    },
+    {
+      "beam_id": "nlc2-04-19",
+      "beam_alias": "New LC 2 - 04 19",
+      "beam_name": "Satria 04 19"
+    },
+    {
+      "beam_id": "nlc2-05-1",
+      "beam_alias": "New LC 2 - 05 1",
+      "beam_name": "Satria 05 1"
+    },
+    {
+      "beam_id": "nlc2-05-2",
+      "beam_alias": "New LC 2 - 05 2",
+      "beam_name": "Satria 05 2"
+    },
+    {
+      "beam_id": "nlc2-05-3",
+      "beam_alias": "New LC 2 - 05 3",
+      "beam_name": "Satria 05 3"
+    },
+    {
+      "beam_id": "nlc2-05-4",
+      "beam_alias": "New LC 2 - 05 4",
+      "beam_name": "Satria 05 4"
+    },
+    {
+      "beam_id": "nlc2-05-5",
+      "beam_alias": "New LC 2 - 05 5",
+      "beam_name": "Satria 05 5"
+    },
+    {
+      "beam_id": "nlc2-05-6",
+      "beam_alias": "New LC 2 - 05 6",
+      "beam_name": "Satria 05 6"
+    },
+    {
+      "beam_id": "nlc2-05-7",
+      "beam_alias": "New LC 2 - 05 7",
+      "beam_name": "Satria 05 7"
+    },
+    {
+      "beam_id": "nlc2-05-8",
+      "beam_alias": "New LC 2 - 05 8",
+      "beam_name": "Satria 05 8"
+    },
+    {
+      "beam_id": "nlc2-05-9",
+      "beam_alias": "New LC 2 - 05 9",
+      "beam_name": "Satria 05 9"
+    },
+    {
+      "beam_id": "nlc2-05-10",
+      "beam_alias": "New LC 2 - 05 10",
+      "beam_name": "Satria 05 10"
+    },
+    {
+      "beam_id": "nlc2-05-11",
+      "beam_alias": "New LC 2 - 05 11",
+      "beam_name": "Satria 05 11"
+    },
+    {
+      "beam_id": "nlc2-05-12",
+      "beam_alias": "New LC 2 - 05 12",
+      "beam_name": "Satria 05 12"
+    },
+    {
+      "beam_id": "nlc2-05-13",
+      "beam_alias": "New LC 2 - 05 13",
+      "beam_name": "Satria 05 13"
+    },
+    {
+      "beam_id": "nlc2-05-14",
+      "beam_alias": "New LC 2 - 05 14",
+      "beam_name": "Satria 05 14"
+    },
+    {
+      "beam_id": "nlc2-05-15",
+      "beam_alias": "New LC 2 - 05 15",
+      "beam_name": "Satria 05 15"
+    },
+    {
+      "beam_id": "nlc2-05-16",
+      "beam_alias": "New LC 2 - 05 16",
+      "beam_name": "Satria 05 16"
+    },
+    {
+      "beam_id": "nlc2-05-17",
+      "beam_alias": "New LC 2 - 05 17",
+      "beam_name": "Satria 05 17"
+    },
+    {
+      "beam_id": "nlc2-05-18",
+      "beam_alias": "New LC 2 - 05 18",
+      "beam_name": "Satria 05 18"
+    },
+    {
+      "beam_id": "nlc2-05-19",
+      "beam_alias": "New LC 2 - 05 19",
+      "beam_name": "Satria 05 19"
+    },
+    {
+      "beam_id": "nlc2-05-20",
+      "beam_alias": "New LC 2 - 05 20",
+      "beam_name": "Satria 05 20"
+    },
+    {
+      "beam_id": "nlc2-05-21",
+      "beam_alias": "New LC 2 - 05 21",
+      "beam_name": "Satria 05 21"
+    },
+    {
+      "beam_id": "nlc2-05-22",
+      "beam_alias": "New LC 2 - 05 22",
+      "beam_name": "Satria 05 22"
+    },
+    {
+      "beam_id": "nlc2-05-23",
+      "beam_alias": "New LC 2 - 05 23",
+      "beam_name": "Satria 05 23"
+    },
+    {
+      "beam_id": "nlc2-05-24",
+      "beam_alias": "New LC 2 - 05 24",
+      "beam_name": "Satria 05 24"
+    },
+    {
+      "beam_id": "nlc2-05-25",
+      "beam_alias": "New LC 2 - 05 25",
+      "beam_name": "Satria 05 25"
+    },
+    {
+      "beam_id": "nlc2-05-26",
+      "beam_alias": "New LC 2 - 05 26",
+      "beam_name": "Satria 05 26"
+    },
+    {
+      "beam_id": "nlc2-05-27",
+      "beam_alias": "New LC 2 - 05 27",
+      "beam_name": "Satria 05 27"
+    },
+    {
+      "beam_id": "nlc2-05-28",
+      "beam_alias": "New LC 2 - 05 28",
+      "beam_name": "Satria 05 28"
+    },
+    {
+      "beam_id": "nlc2-05-29",
+      "beam_alias": "New LC 2 - 05 29",
+      "beam_name": "Satria 05 29"
+    },
+    {
+      "beam_id": "nlc2-05-30",
+      "beam_alias": "New LC 2 - 05 30",
+      "beam_name": "Satria 05 30"
+    }
+  ]
+}
